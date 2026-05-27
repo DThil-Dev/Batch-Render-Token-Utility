@@ -11,6 +11,8 @@ Anyone is fully allowed to contribute to this plugin by building forks of it. Pe
 enough work will receive my permission to use this plugin for commercial and private work for free.
 You do not need my approval to start work, check the bugs and feature requests tab and make a fork.
 
+*Do not use this code for the production of any NSFW or 18+ work.*
+
 Feel fully free in the use of AI to fix bugs and include features in this code, and if you do,
 use:
 https://aistudio.google.com/prompts/new_chat
