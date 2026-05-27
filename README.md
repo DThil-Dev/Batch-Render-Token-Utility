@@ -8,8 +8,15 @@ If only they realised the pain and suffering these big companies want us to go t
 to line their pockets. 
 
 Anyone is fully allowed to contribute to this plugin by building forks of it. People who contribute
-enough work will receive my permission to use this plugin for commercial and private work for free.
-You do not need my approval to start work, check the bugs and feature requests tab and make a fork.
+enough work will contact me and receive my permission to use this plugin for commercial and private 
+work for free. You do not need my approval to start work, check the bugs and feature requests tab and 
+make a fork.
+
+If you want to message me with about using this product for free, send me a message in this format:
+1. What you contributed.
+2. Why you contributed.
+3. What you plan on using this plugin for.
+4. Whether or not this plugin has any NSFW or 18+ content. 
 
 *Do not use this code for the production of any NSFW or 18+ work.*
 
