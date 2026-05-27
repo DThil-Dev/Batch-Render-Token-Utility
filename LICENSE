@@ -100,6 +100,19 @@ public, and in some countries other activities as well.
 parties to make or receive copies.  Mere interaction with a user through
 a computer network, with no transfer of a copy, is not conveying.
 
+"Adult content" or "18+" is generally defined by law through the concepts of obscenity 
+and material harmful to minors. Under US federal law (specifically the Miller 
+test established by the Supreme Court) and various international statutes, 
+adult content legally encompasses material that depicts explicit sexual conduct, 
+lacks serious literary, artistic, political, or scientific value, and appeals 
+predominantly to a prurient interest in sex. While "NSFW" is a workplace or 
+platform-governed threshold for content that could cause professional or social 
+discomfort, the legal "18+" boundary triggers strict regulatory requirements—such 
+as mandatory age-verification gates, zoning laws, and severe criminal liabilities 
+if distributed to minors—aiming to shield children from explicit sexual depictions 
+while protecting consenting adults' constitutional rights to access non-obscene 
+pornography.
+
   An interactive user interface displays "Appropriate Legal Notices"
 to the extent that it includes a convenient and prominently visible
 feature that (1) displays an appropriate copyright notice, and (2)
@@ -109,7 +122,7 @@ work under this License, and how to view a copy of this License.  If
 the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.
 
-  1. Source Code.
+1. Source Code.
 
   The "source code" for a work means the preferred form of the work
 for making modifications to it.  "Object code" means any non-source
@@ -617,6 +630,11 @@ reviewing courts shall apply local law that most closely approximates
 an absolute waiver of all civil liability in connection with the
 Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
+
+18. NSFW and 18+ Content Policy
+This software may not be used for the creation, rendering, or 
+distribution of sexually explicit material, adult entertainment, 
+or 18+ content.
 
                      END OF TERMS AND CONDITIONS
 
