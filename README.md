@@ -17,4 +17,4 @@ Feel fully free in the use of AI to fix bugs and include features in this code, 
 use:
 https://aistudio.google.com/prompts/new_chat
 
-# Any malicious code will get you named and shamed.
+# Any malicious code will get you named and shamed in do-not-trust.md
