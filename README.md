@@ -16,7 +16,7 @@ If you want to message me with about using this product for free, send me a mess
 1. What you contributed.
 2. Why you contributed.
 3. What you plan on using this plugin for.
-4. Whether or not this plugin has any NSFW or 18+ content. 
+4. Whether or not the content produced with this plugin has any NSFW or 18+ content. 
 
 *Do not use this code for the production of any NSFW or 18+ work.*
 
