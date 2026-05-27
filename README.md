@@ -2,7 +2,7 @@
 A blender plugin that speeds up (or aims to) rendering by 100s of times for multiple scenes.
 
 It will disappoint me greatly if I hear that you are using this plugin for commerical use 
-without asking me first by sending me a message on GitHub. Unfortunately, Blender says
+without asking or paying me first by sending me a message on GitHub. Unfortunately, Blender says
 through their GNU GPL and company beliefs that probhibiting commerical use is not possible. 
 If only they realised the pain and suffering these big companies want us to go through for them 
 to line their pockets. 
